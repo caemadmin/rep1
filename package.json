@@ -21,6 +21,7 @@
     "github-webhook-handler": "0.7.1",
     "marked": "1.2.9",
     "signals": "1.0.0",
-    "luxon": "1.0.0"
+    "luxon": "1.0.0",
+    "eslint": "1.0.0"
   }
 }
