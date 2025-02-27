@@ -1,0 +1,3 @@
+# Setup Terraform
+terraform {
+}
